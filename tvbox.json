@@ -25,8 +25,9 @@
 
     {"key": "drpy_js_lf_p2p","name": "💣┃磁力p2p┃搜索","type": 3,"api": "./libs/js/lf_p2p1_min.js"},
     {"key": "夸搜","name": "🐺夸搜┃搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {  "pan": "quark",  "quarkCookie": "tvfan/cookie.txt",  "from": "4k|auto|fhd"}},
+    {"key": "米搜","name": "🦋米搜┃搜索","type": 3,"api": "csp_MIPanSo","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"pan": "quark","quarkCookie": "tvfan/cookie.txt","from": "4k|auto|fhd"}},
     {"key": "YiSo","name": "🎯┃阿里┃YiSo","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {  "aliToken": "tvfan/token.txt",  "from": "4k|auto|fhd"}},
-    {"key": "PanSou","name": "📀┃阿里┃PanSou","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {  "aliToken": "tvfan/token.txt",  "from": "4k|auto|fhd"}},
+    {"key": "PanSou","name": "📀┃阿里┃盘搜","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {  "aliToken": "tvfan/token.txt",  "from": "4k|auto|fhd"}},
     {"key": "UpYun","name": "🌤️┃阿里┃UpYun","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {  "aliToken": "tvfan/token.txt",  "from": "4k|auto|fhd"}},
     {"key": "PanSearch","name": "🏵️‍┃阿里┃PanSe","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {  "aliToken": "tvfan/token.txt",  "from": "4k|auto|fhd"}},
     {"key": "push_agent","name": "🛴手机┃推送","type": 3,"api": "csp_Push","searchable": 0,"quickSearch": 0,"ext": {  "aliToken": "tvfan/token.txt",  "quarkCookie": "tvfan/cookie.txt",  "from": "4k|auto|fhd"}},
@@ -40,6 +41,7 @@
     {"key": "苹果","name": "🍎┃小苹果┃IJK","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"changeable": 1},
     {"key": "csp_Nmys","name": "🌾┃农民┃直连","type": 3,"api": "csp_Nmys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "./libs/nmys.json"},
     {"key": "厂长","name": "📔┃厂长┃无广","type": 3,"api": "csp_Czsapp","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://czzy.top/"},
+    {"key": "厂长2","name": "📔厂长┃不卡","type": 3,"api": "csp_NewCz","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://czzy.top/"},
     {"key": "DiDuan","name": "⏮️┃低端┃外剧","type": 3,"api": "csp_Ddrk","playerType": "2","searchable": 1,"quickSearch": 1,"changeable": 1},
     {"key": "zxzj","name": "🍊┃在线┃外剧","type": 3,"api": "csp_Zxzj","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.zxzjhd.com/"},
     {"key": "小点","name": "💥小点┃多线","type": 3,"api": "csp_Xdys","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
