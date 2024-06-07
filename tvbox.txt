@@ -2,7 +2,7 @@
 {
     "urls": [
         {
-            "url": "https://kjxhb.github.io/tvbox/tvbox.json",
+            "url": "https://box.dzxhb.top/tvbox.json",
             "name": "自用TVBox接口-github"
         },
         {
